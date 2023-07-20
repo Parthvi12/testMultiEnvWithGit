@@ -22,6 +22,7 @@
     "labelTextSize": "0.875rem",
     "rightColumn": 20,
     "textAlign": "LEFT",
+    "dynamicHeight": "FIXED",
     "widgetId": "d2iargrn9f",
     "isVisible": true,
     "fontStyle": "BOLD",
@@ -31,5 +32,7 @@
     "renderMode": "CANVAS",
     "isLoading": false,
     "borderRadius": "0px",
-    "fontSize": "1.2rem"
+    "maxDynamicHeight": 9000,
+    "fontSize": "1.2rem",
+    "minDynamicHeight": 4
 }

@@ -1,6 +1,10 @@
 {
   "pages": [
     {
+      "id": "Directions",
+      "isDefault": false
+    },
+    {
       "id": "Search",
       "isDefault": false
     },
@@ -17,7 +21,7 @@
   "appIsExample": false,
   "unreadCommentThreads": 0,
   "color": "#ECECEC",
-  "icon": "pizza",
+  "icon": "flag",
   "unpublishedAppLayout": {
     "type": "DESKTOP"
   },

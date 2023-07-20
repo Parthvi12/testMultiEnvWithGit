@@ -22,7 +22,7 @@
         "widgetName": "Canvas1Copy1Copy",
         "displayName": "Canvas",
         "topRow": 0,
-        "bottomRow": 130,
+        "bottomRow": 140,
         "parentRowSpace": 1,
         "type": "CANVAS_WIDGET",
         "canExtend": false,
@@ -52,10 +52,13 @@
     "backgroundColor": "#192550",
     "isDeprecated": false,
     "rightColumn": 47,
+    "dynamicHeight": "FIXED",
     "widgetId": "nmkrk0rxqa",
     "isVisible": true,
     "parentId": "95kyihif82",
     "renderMode": "CANVAS",
     "isLoading": false,
-    "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}"
+    "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+    "maxDynamicHeight": 9000,
+    "minDynamicHeight": 4
 }

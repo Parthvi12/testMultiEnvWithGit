@@ -19,7 +19,7 @@
         "widgetName": "Canvas1Copy1",
         "displayName": "Canvas",
         "topRow": 0,
-        "bottomRow": 130,
+        "bottomRow": 140,
         "parentRowSpace": 1,
         "type": "CANVAS_WIDGET",
         "canExtend": false,
@@ -49,10 +49,13 @@
     "backgroundColor": "#192550",
     "isDeprecated": false,
     "rightColumn": 62,
+    "dynamicHeight": "FIXED",
     "widgetId": "puoeb3szfz",
     "isVisible": true,
     "parentId": "95kyihif82",
     "renderMode": "CANVAS",
     "isLoading": false,
-    "borderRadius": "0.375rem"
+    "borderRadius": "0.375rem",
+    "maxDynamicHeight": 9000,
+    "minDynamicHeight": 4
 }

@@ -27,7 +27,7 @@
         "widgetName": "Canvas112",
         "displayName": "Canvas",
         "topRow": 0,
-        "bottomRow": 390,
+        "bottomRow": 320,
         "parentRowSpace": 1,
         "type": "CANVAS_WIDGET",
         "canExtend": false,
@@ -58,6 +58,7 @@
     "backgroundColor": "#FFFFFF",
     "isDeprecated": false,
     "rightColumn": 62,
+    "dynamicHeight": "FIXED",
     "widgetId": "p8yvhdufas",
     "containerStyle": "card",
     "isVisible": true,
@@ -65,5 +66,7 @@
     "parentId": "0",
     "renderMode": "CANVAS",
     "isLoading": false,
-    "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}"
+    "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+    "maxDynamicHeight": 9000,
+    "minDynamicHeight": 4
 }

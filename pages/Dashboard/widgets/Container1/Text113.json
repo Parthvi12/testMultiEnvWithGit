@@ -26,6 +26,7 @@
     "isDeprecated": false,
     "rightColumn": 36,
     "textAlign": "LEFT",
+    "dynamicHeight": "FIXED",
     "widgetId": "7v9lp5lkb2",
     "isVisible": true,
     "fontStyle": "",
@@ -35,5 +36,7 @@
     "renderMode": "CANVAS",
     "isLoading": false,
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-    "fontSize": "1rem"
+    "maxDynamicHeight": 9000,
+    "fontSize": "1rem",
+    "minDynamicHeight": 4
 }

@@ -62,6 +62,7 @@
     "isLoading": false,
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "menuColor": "#000D3D",
+    "menuItemsSource": "STATIC",
     "iconAlign": "left",
     "placement": "CENTER"
 }
